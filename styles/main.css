@@ -1,8 +1,7 @@
 body {
 	background-image: url("https://www.wikihow.com/images/a/ad/Draw-Pusheen-the-Cat-Step-9.jpg");
-	background-repeat: n;
-    background-size: fit;
-	font-family: Arial Black;
+	background-repeat: no-repeat;
+  	background-size: auto;
 }
 
 h1 {
